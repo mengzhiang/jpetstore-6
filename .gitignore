@@ -3,6 +3,7 @@
 /.classpath
 /.project
 /.idea
+/.DS_Store
 *.iml
 /build
 .mvn/wrapper/maven-wrapper.jar
